@@ -23,7 +23,15 @@ The dataset which contains informations on medical appointments collected in Bra
 * HTML 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+>  Patients who fail to show up to scheduled appointments or cancel at the last minute - giving the health center no opportunity to fill the appointment slot - are often referred to as no-shows. No-show appointments result in loss of time and money for the health center and disrupts continuity of care for patients. 
+>  There are multiple reasons patients miss appointments. They may have forgotten, had transportation issues, or couldn’t get off work. Some patients' missed appointments are rooted in negative emotions or anxiety associated with going to the doctor. Some patients also report feeling disrespected by the health care system whether it be because of staff, wait times, or beliefs that their opinions or feelings are not taken into account. 
+
+This project analyses some possible reasons for the no-show attitude among patients. Some of the questions posed and answered include
+* Is there a disparity in showing up of appointments between males and females?
+* Is there a day of the week that records high level of compliance of patients with respect to their appointments?
+* Do patients belonging to specific age groups show up to appointments more than others?
+* Does SMS reminders help patients visit the doctor at the appointed date?
 
 ## Conclusions
 
@@ -44,3 +52,7 @@ The dataset which contains informations on medical appointments collected in Bra
 * The entire dataset is a subset of the population and may possess some form of bias which may affect the inference from the analysis.
 * Most of the variables are categorical,this hinders some bivariate and multivariate analysis that could have provided more insights.
 * There are some findings that seem counter-intuitive. The SMS reminders was expected to show increase in patients showing up for their appointments but reverse was the case.
+
+
+## References
+* https://www.equiscript.com/blog/patient-no-shows
