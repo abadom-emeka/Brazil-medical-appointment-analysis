@@ -19,7 +19,7 @@ The dataset which contains informations on medical appointments collected in Bra
 ### Technologies
 * Python
 * Numpy, Matplotlib
-* Pandas, jupyter
+* Pandas, jupyter notebook
 * HTML 
 
 ## Project Description
